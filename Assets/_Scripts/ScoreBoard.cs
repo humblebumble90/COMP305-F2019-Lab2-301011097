@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Name:Hyungseok Lee
+//Studentnumber:301011097
+
 [CreateAssetMenu(fileName ="ScoreBoard", menuName ="Game/ScoreBoard")]
 [System.Serializable]
 public class ScoreBoard : ScriptableObject

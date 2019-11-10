@@ -1,6 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
+//Name:Hyungseok Lee
+//Studentnumber:301011097
+
 [CreateAssetMenu(fileName = "SceneSettings", menuName ="Scene/Settings")]
 [System.Serializable]
 
